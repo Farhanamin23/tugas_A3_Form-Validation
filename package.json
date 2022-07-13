@@ -1,0 +1,22 @@
+{
+  "name": "tugas_jquery_amin_farhan",
+  "version": "1.0.0",
+  "description": "Form Validation Jquery Dengan Captcha input",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "tugas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farhanamin23/tugas_A3_Form-Validation.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "farhanamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farhanamin23/tugas_A3_Form-Validation/issues"
+  },
+  "homepage": "https://github.com/Farhanamin23/tugas_A3_Form-Validation#readme"
+}
