@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Farhanamin23/tugas_A3_Form-Validation/issues"
   },
-  "homepage": "https://github.com/Farhanamin23/tugas_A3_Form-Validation#readme"
+  "homepage": "https://github.com/Farhanamin23/tugas_A3_Form-Validation#readme",
+  "dependencies": {
+    "tugas_jquery_amin_farhan": "^1.0.0"
+  }
 }
